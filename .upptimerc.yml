@@ -6,6 +6,18 @@ sites:
   - name: Wicrypt Api
     url: https://api.wicrypt.com/api/v2/healthCheck/liveness
     icon: https://wicrypt.com/favicon.ico
+    
+  - name: Wicrypt Dashboard
+    url: https://dashboard.wicrypt.com
+    
+  - name: Wicrypt Staking Frontend
+    url: https://stake.wicrypt.com
+    
+  - name: Wicrypt Scan Frontend
+    url: https://scan.wicrypt.com
+    
+  - name: Wicrypt NFT Frontend
+    url: https://nft.wicrypt.com
 
 assignees:
   - franko4don
