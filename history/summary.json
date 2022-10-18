@@ -4,7 +4,7 @@
     "url": "https://api.wicrypt.com/api/v2/healthCheck/liveness",
     "icon": "https://wicrypt.com/favicon.ico",
     "slug": "wicrypt-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 448,
     "timeDay": 596,
-    "timeWeek": 452,
+    "timeWeek": 457,
     "timeMonth": 448,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   },
   {
     "name": "Wicrypt Dashboard",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 375,
     "timeDay": 392,
-    "timeWeek": 375,
+    "timeWeek": 366,
     "timeMonth": 375,
     "timeYear": 375,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 344,
     "timeDay": 359,
-    "timeWeek": 344,
+    "timeWeek": 348,
     "timeMonth": 344,
     "timeYear": 344,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 397,
-    "timeWeek": 364,
+    "timeWeek": 359,
     "timeMonth": 364,
     "timeYear": 364,
     "dailyMinutesDown": {}
