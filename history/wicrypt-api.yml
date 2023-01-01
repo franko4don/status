@@ -1,7 +1,7 @@
 url: https://api.wicrypt.com/api/v2/healthCheck/liveness
 status: up
 code: 200
-responseTime: 414
-lastUpdated: 2022-12-31T23:05:44.035Z
+responseTime: 287
+lastUpdated: 2023-01-01T23:06:08.062Z
 startTime: Mon Oct 10 2022 22:43:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
